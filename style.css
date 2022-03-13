@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Space+Mono&display=swap');
+@import url('css/topnav.css');
+
+* {
+  margin: 0;
+}
+
+body {
+  font-size: 1em;
+  background: Navy;
+  color: White;
+  font-family: "Mulish", sans-serif;
+}
+
+.ine {
+  color: SteelBlue;
+}
+
+.header {
+  font-family: "Space Mono", monospace;
+  text-align: center;
+  padding: 72px 12px;
+}
+
+.maindom {
+  padding: 12px 8px;
+  line-height: 1.6;
+  background: White;
+  color: Black;
+}
+
+.blackbar{
+  padding: 4px 0px;
+  background: Black;
+}
+
+.footer {
+  font-family: "Space Mono", monospace;
+  padding: 44px 12px;
+}
+
